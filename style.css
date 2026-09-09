@@ -44,7 +44,7 @@ body {
 .capture-area {
     width: 1100px;
     margin: 0 auto;
-    padding: 28px 50px 34px;
+    padding: 18px 50px 34px;
     background: #fff;
     border-radius: 24px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, .08);
@@ -55,7 +55,7 @@ body {
    양옆 여백을 줄인다. 공수 탭(#captureAreaLr)은 그대로 넓게 유지. */
 #captureArea {
     width: 940px;
-    padding: 28px 160px 34px;
+    padding: 18px 160px 34px;
 }
 
 /* ===========================
@@ -98,7 +98,7 @@ body {
 
 .logo {
     display: block;
-    width: 340px;
+    width: 240px;
     height: auto;
     margin: 0 auto 4px;
 }
@@ -758,7 +758,7 @@ button:hover {
 
     .capture-area {
         width: 100%;
-        padding: 20px 14px 22px;
+        padding: 14px 14px 22px;
         border-radius: 16px;
         box-shadow: 0 6px 20px rgba(0, 0, 0, .08);
     }
@@ -768,11 +768,11 @@ button:hover {
        모바일 구간에서 명시적으로 다시 100%/좁은 패딩으로 되돌린다. */
     #captureArea {
         width: 100%;
-        padding: 20px 14px 22px;
+        padding: 14px 14px 22px;
     }
 
     .logo {
-        width: 160px;
+        width: 115px;
         margin: 0 auto 2px;
     }
 
